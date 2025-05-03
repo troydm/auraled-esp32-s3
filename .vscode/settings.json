@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "config.h": "c",
+        "ws28xx.h": "c",
+        "nvs_flash.h": "c",
+        "esp_log.h": "c",
+        "esp_wifi.h": "c",
+        "limits": "c",
+        "esp_https_server.h": "c"
+    }
+}
